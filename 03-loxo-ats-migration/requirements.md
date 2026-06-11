@@ -1,25 +1,29 @@
-# Business Requirements
+# Requirements
 
-## ATS Migration Goals
+## Business Requirements
 
-### Public Job Postings
+* Display current job openings on website
+* Remove outdated job listings
+* Reduce manual website updates
+* Allow recruiters to manage jobs through ATS
+* Improve candidate experience
 
-- Public jobs should automatically appear on the company careers page
-- Candidates should be able to view and apply online
+## Technical Requirements
 
-### Confidential Searches
+* Replace RecruitFlow
+* Implement Loxo Careers Page
+* Support live job synchronization
+* Support desktop and mobile viewing
+* Maintain job detail pages
 
-- Confidential replacement searches must not be visible publicly
-- Search Directors decide whether jobs are published
+## Success Criteria
 
-### Website Integration
+* Published jobs appear on website
+* RecruitFlow removed
+* Loxo active on website
+* Job details accessible
+* Mobile usability improved
 
-- Replace RecruiterFlow job board
-- Integrate Loxo Careers Page into WordPress
-- Maintain branding consistency
+## Outcome
 
-### User Experience
-
-- Easy job search experience
-- Mobile friendly
-- Simple application process
+All requirements successfully met.
