@@ -1,36 +1,27 @@
 # Implementation Notes
 
-## Discovery Findings
+## Project
 
-### Existing ATS
+Loxo ATS Migration
 
-- RecruiterFlow currently powers the public job board.
-- RecruiterFlow is embedded through an Elementor HTML widget.
-- Implementation uses an iframe.
+## Summary
 
-### WordPress
+The Potere Search Job Postings page was migrated from RecruitFlow to Loxo.
 
-- Website is built on WordPress.
-- Elementor is used for page editing.
-- Job Postings page exists and is already connected to the ATS.
+The previous RecruitFlow job board displayed outdated job listings. The new setup connects the website directly to the Loxo Careers Page so published jobs in Loxo appear live on the website.
 
-### Loxo
+## Final Loxo Careers Page URL
 
-- Loxo Careers Pages feature is enabled.
-- Public careers page exists:
-  https://potere-search-ps.app.loxo.co/potere-search-ps
+https://potere-search-ps.app.loxo.co/potere-search-ps?disable_addthis=true
 
-### Publishing Workflow
+## Final iframe Used
 
-Per leadership guidance:
-
-- Some searches are confidential replacement searches.
-- Confidential searches must not be published publicly.
-- Search Directors control job visibility.
-- Only approved jobs should appear on the public careers page.
-
-## Current Status
-
-Discovery and planning phase completed.
-
-Implementation pending approval.
+```html
+<iframe
+  src="https://potere-search-ps.app.loxo.co/potere-search-ps?disable_addthis=true"
+  width="100%"
+  height="1600px"
+  frameborder="0"
+  scrolling="no"
+  style="border:0;">
+</iframe>
