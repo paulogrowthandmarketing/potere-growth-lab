@@ -1,47 +1,61 @@
 # Potere Growth Lab
 
-## Growth Systems in Action
+Repository for documenting growth, marketing, website, and systems initiatives for Potere Search.
 
-This repository documents real-world growth initiatives, marketing operations, website optimization, automation projects, demand generation systems, reporting frameworks, and business development support initiatives.
+## Project Status
 
-Rather than focusing on theory, this repository serves as a living portfolio of how growth systems are planned, implemented, measured, and optimized.
+### 01 - Growth Transformation
 
-## Current Focus Areas
+Status: In Progress
 
-* Growth Strategy
-* Demand Generation
-* Marketing Operations
-* Website Optimization
-* Conversion Optimization
-* CRM & ATS Systems
-* Marketing Automation
-* Analytics & Reporting
-* Content Systems
-* Lead Generation
-* Revenue Operations
+Objective:
 
-## Active Projects
+* Reposition Potere Search from a recruiting firm to a growth and scale-up partner.
+* Align website messaging with Potere's unique value proposition.
+* Support companies scaling from $50M to $500M+ and beyond.
 
-### ATS Migration
+---
 
-Migrating recruiting operations from RecruiterFlow to Loxo while improving website integration, publishing workflows, and operational efficiency.
+### 02 - Website Optimization
 
-### Website Optimization
+Status: Planned
 
-Reviewing website structure, user experience, messaging, conversion paths, and lead capture opportunities.
+Objective:
 
-### Marketing Operations
+* Improve website messaging
+* Improve user experience
+* Increase conversion opportunities
+* Align website with growth-focused positioning
 
-Building scalable systems for content, outreach, reporting, attribution, and business development support.
+---
 
-### Analytics & Reporting
+### 03 - Loxo ATS Migration
 
-Developing dashboards, KPI tracking, and reporting frameworks to connect marketing activity with measurable business outcomes.
+Status: Completed
 
-## Weekly Progress Updates
+Objective:
 
-This repository is updated regularly with discoveries, implementations, lessons learned, and project outcomes.
+* Replace RecruitFlow with Loxo
+* Implement live job synchronization
+* Eliminate outdated job listings
 
-## Objective
+Completed Deliverables:
 
-Build repeatable growth systems that create measurable business impact through strategy, execution, optimization, and continuous improvement.
+* RecruitFlow removed
+* Loxo Careers Page implemented
+* Live job synchronization established
+* Mobile display issue resolved
+* Documentation completed
+
+---
+
+## Current Priorities
+
+1. Homepage messaging transformation
+2. Growth positioning framework
+3. Website conversion optimization
+4. Loxo ATS adoption and optimization
+
+## Last Updated
+
+June 2026
