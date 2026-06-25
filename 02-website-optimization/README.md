@@ -1,47 +1,43 @@
 # Website Optimization
 
-## Objective
+This folder documents website-related updates for the Potere Search website, including homepage messaging, branding updates, structure notes, and technical implementation details.
 
-Improve website structure, messaging, user experience, conversion paths, and employer acquisition opportunities.
+## Purpose
 
-## Current Website
+The purpose of this section is to track website improvements clearly so future updates can be reviewed, maintained, and understood easily.
 
-Potere Search website is built on WordPress and Elementor.
+## Current Focus
 
-## Initial Audit
+- Homepage messaging and positioning
+- Header and footer branding updates
+- Website structure documentation
+- Contact form messaging
+- Conversion-focused improvements
 
-### Findings
+## Website Structure Notes
 
-* Website is credibility-focused but can improve conversion opportunities.
-* Employer and candidate journeys can be separated more clearly.
-* Homepage messaging can be strengthened.
-* Calls-to-action can be more visible and conversion-focused.
-* Lead capture opportunities are limited.
-* Case studies and proof assets should be more prominent.
+### Header
 
-## Job Postings Discovery
+The website header is managed through the WordPress Customizer.
 
-### Existing Setup
+Path:
 
-The Job Postings page was connected to RecruiterFlow through an embedded iframe inside Elementor.
+Appearance → Customize → Header → Site Title & Logo
 
-### Investigation Process
+The sticky header uses the same logo as the primary header. No separate sticky logo is currently enabled.
 
-* Accessed WordPress admin
-* Reviewed Job Postings page
-* Located Elementor implementation
-* Identified RecruiterFlow iframe integration
-* Investigated migration path to Loxo Careers Pages
+### Footer
 
-## Planned Improvements
+The footer is not controlled through the standard theme customizer. It appears to be managed through Elementor or a custom footer section.
 
-* Improve homepage messaging
-* Improve conversion paths
-* Strengthen employer-focused calls-to-action
-* Add proof and credibility assets
-* Improve lead capture opportunities
-* Support ATS migration to Loxo
+## Recent Website Updates
 
-## Status
+- Updated the main homepage headline and message.
+- Updated the homepage value sections to focus on business goals, impact, and high-impact hires.
+- Replaced the New Era Recruiting Model section with the Potere Search Growth Model.
+- Updated the leadership placement section.
+- Updated the contact form message to "What's Your Big Goal?"
 
-In Progress
+## Notes for Future Updates
+
+Future website updates should stay focused on clarity, business impact, and Potere Search's positioning around helping companies achieve meaningful growth through strategic hiring.
